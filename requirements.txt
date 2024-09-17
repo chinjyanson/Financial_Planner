@@ -1,0 +1,51 @@
+# packages i installed along the way:
+# Successfully installed langgraph-checkpoint-sqlite-1.0.1
+# Successfully installed beanie-1.26.0 lazy-model-0.2.0
+# fastapi-users
+aiosqlite==0.20.0
+fastapi==0.111.0
+google-cloud==0.34.0
+langchain==0.2.14
+langchain-anthropic==0.1.15
+langchain-community==0.2.12
+langchain-openai==0.1.8
+langgraph==0.2.16
+langgraph-checkpoint==1.0.8 
+langgraph-checkpoint-sqlite==1.0.1
+langserve==0.2.2
+langsmith==0.1.76
+motor==3.4.0
+openai==1.33.0
+pandas==2.2.2
+Pillow==10.4.0
+pinecone==4.0.0
+pydantic==1.10.13
+# pydantic==2.7.3
+pymongo==4.7.3
+python-dotenv==1.0.1
+sse_starlette==2.1.0
+tavily-python==0.3.3
+python-telegram-bot==21.4
+python-telegram-bot[job-queue]==21.4
+pg8000==1.31.2
+cloud-sql-python-connector==1.12.0
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+langchain-experimental==0.0.64
+pypdf2==3.0.1
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+pypdf==4.3.1
+docx==0.2.4
+python-docx==1.1.2
+# python_version = 3.10.11
+vertexai==1.63.0
+google-cloud-storage==2.18.2
+beanie==1.26.0
+fastapi-users
+
+# for cloud 
+google-cloud-secret-manager==2.16.1
+ 
+# python_version = 3.10.11
+# pip install -r text_files/requirements.txt

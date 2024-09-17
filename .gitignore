@@ -1,0 +1,56 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+venv
+
+# all log file
+/**/*.log
+
+# python-generated cache file
+/**/*.pyc
+**/__pycache__
+
+# misc
+.env
+google.env
+
+# DB
+/**/*.sqlite3
+/**/*.sqlite
+
+# Keys
+*.json
+/authentication
+*.ipynb
+
+# Media files
+/media
+
+# pylint
+/.vscode
+
+# Mac finder
+/api/.DS_Store
+
+# pdf
+.pdf
+
+# VsCode Counter
+/.VSCodeCounter
+
+# All Excel Files
+/**/*.xlsx
+
+# bat file
+/*.bat
+
+# token files
+token.txt
+
+# PDF
+/*.pdf
+
+# myenv file
+/venv
+
+# Generated charts folder
+/generated_charts
+/generated_pdf
